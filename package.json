@@ -1,7 +1,7 @@
 {
   "name": "air",
   "version": "1.0.0",
-  "description": "Fill-the-Fill",
+  "description": "TITLE:  Air - 100% Fully Responsive Free HTML5 Bootstrap Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
