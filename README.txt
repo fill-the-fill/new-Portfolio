@@ -1,3 +1,4 @@
-Portfolio
 
-Special thank you to http://freehtml5.co/ for inspiration!
+Portfoilio!
+
+Special thank you to freehtml5 for inspiration!
