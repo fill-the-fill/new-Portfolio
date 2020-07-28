@@ -413,13 +413,13 @@ h1, h2, h3, h4, h5, h6, figure {
 		}
 		.btn {
 			padding: 15px 30px;
-			// background: $brand-primary!important;
 			color: $brand-white;
 			border: none!important;
 			font-size: 18px;
 			@media screen and(max-width: $screen-sm){
+				white-space: normal;
 				width: 80%;
-				margin: 0 auto;
+				margin:0 auto;
 			}
 			&.btn-learn{
 				background: rgba($brand-secondary,1);
