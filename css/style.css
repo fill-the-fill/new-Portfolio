@@ -1318,7 +1318,7 @@ input[type="text"] {
   border: 2px solid #DD356E;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #e14b7e !important;
+  background: black !important;
   border-color: #e14b7e !important;
 }
 .btn-primary.btn-outline {
@@ -1457,7 +1457,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #DD356E;
+  border-color: rgb(224, 207, 207)
 }
 
 .row-pb-md {
